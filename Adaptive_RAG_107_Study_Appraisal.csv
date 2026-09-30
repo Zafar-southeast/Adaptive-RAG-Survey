@@ -1,0 +1,108 @@
+year,short_name,title,primary_category,status,venue,doi_or_url,AD,CO,BL,AB,RR,EB,SR,RP,FA,CE
+2023,FLARE,Active Retrieval Augmented Generation,Triggering,Peer-reviewed,EMNLP,10.18653/v1/2023.emnlp-main.495,2,2,2,2,2,2,0,2,1,2
+2023,SKR,Self-Knowledge Guided Retrieval Augmentation for Large Language Models,Triggering,Peer-reviewed,Findings of EMNLP,10.18653/v1/2023.findings-emnlp.691,2,2,2,1,1,2,0,1,1,2
+2023,Iter-RetGen,Enhancing Retrieval-Augmented Large Language Models with Iterative Retrieval-Generation Synergy,Routing,Peer-reviewed,Findings of EMNLP,10.18653/v1/2023.findings-emnlp.620,2,2,2,1,1,2,0,1,0,2
+2023,IRCoT,Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions,Routing,Peer-reviewed,ACL,10.18653/v1/2023.acl-long.557,2,2,2,1,2,2,0,2,1,2
+2023,Rewrite-Retrieve-Read,Query Rewriting in Retrieval-Augmented Large Language Models,Routing,Peer-reviewed,EMNLP,10.18653/v1/2023.emnlp-main.322,2,2,2,1,1,2,0,1,0,2
+2024,DRAGIN,DRAGIN: Dynamic Retrieval Augmented Generation based on the Real-time Information Needs of Large Language Models,Triggering,Peer-reviewed,ACL,10.18653/v1/2024.acl-long.702,2,2,2,2,2,2,0,2,2,2
+2024,Conversational Adaptive RAG,"Learning When to Retrieve, What to Rewrite, and How to Respond in Conversational QA",Triggering,Peer-reviewed,Findings of EMNLP,10.18653/v1/2024.findings-emnlp.622,2,2,2,1,1,2,0,1,1,2
+2024,RetrievalQA,RetrievalQA: Assessing Adaptive Retrieval-Augmented Generation for Short-form Open-Domain Question Answering,Triggering,Peer-reviewed,Findings of ACL,10.18653/v1/2024.findings-acl.415,2,2,2,1,1,2,0,1,0,2
+2024,Self-RAG,"Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection",Triggering,Peer-reviewed,ICLR,https://openreview.net/forum?id=jbNjgmE0OP,2,2,2,2,2,2,1,2,2,2
+2024,UAR,Unified Active Retrieval for Retrieval Augmented Generation,Triggering,Peer-reviewed,Findings of EMNLP,10.18653/v1/2024.findings-emnlp.999,2,2,2,1,1,2,0,1,1,2
+2024,Adaptive-RAG,Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity,Routing,Peer-reviewed,NAACL,10.18653/v1/2024.naacl-long.389,2,2,2,2,2,2,1,2,1,2
+2024,CRAG,Corrective Retrieval Augmented Generation,Routing,Preprint,arXiv,https://arxiv.org/abs/2401.15884,2,2,1,1,1,2,0,0,1,2
+2024,Self-Route,Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach,Routing,Peer-reviewed,EMNLP Industry,10.18653/v1/2024.emnlp-industry.66,2,2,2,1,1,2,0,1,0,2
+2024,EfficientRAG,EfficientRAG: Efficient Retriever for Multi-Hop Question Answering,Budget/evidence,Peer-reviewed,EMNLP,10.18653/v1/2024.emnlp-main.199,2,2,2,2,2,2,0,2,1,2
+2024,RE-RAG,RE-RAG: Improving Open-Domain QA Performance and Interpretability with Relevance Estimator in Retrieval-Augmented Generation,Budget/evidence,Peer-reviewed,EMNLP,10.18653/v1/2024.emnlp-main.1236,2,2,2,2,1,2,0,1,2,2
+2024,REAR,REAR: A Relevance-Aware Retrieval-Augmented Framework for Open-Domain Question Answering,Budget/evidence,Peer-reviewed,EMNLP,10.18653/v1/2024.emnlp-main.321,2,1,2,2,0,2,0,1,2,2
+2024,Query-Knowledge Relevance,Do You Know What You Are Talking About? Characterizing Query-Knowledge Relevance for Reliable Retrieval Augmented Generation,Stopping/sufficiency,Peer-reviewed,EMNLP,10.18653/v1/2024.emnlp-main.353,2,2,1,0,0,1,0,1,1,2
+2025,Adaptive Retrieval Comparison,Adaptive Retrieval Without Self-Knowledge? Bringing Uncertainty Back Home,Triggering,Peer-reviewed,ACL,10.18653/v1/2025.acl-long.319,2,2,1,0,0,2,0,1,2,2
+2025,CtrlA,CtrlA: Adaptive Retrieval-Augmented Generation via Inherent Control,Triggering,Peer-reviewed,Findings of ACL,10.18653/v1/2025.findings-acl.652,2,2,2,1,1,2,0,1,1,2
+2025,DioR,DioR: Adaptive Cognitive Detection and Contextual Retrieval Optimization for Dynamic Retrieval-Augmented Generation,Triggering,Peer-reviewed,ACL,10.18653/v1/2025.acl-long.148,2,2,2,2,1,2,0,1,2,2
+2025,EI-ARAG,Embedding-Informed Adaptive Retrieval-Augmented Generation of Large Language Models,Triggering,Peer-reviewed,COLING,https://aclanthology.org/2025.coling-main.94/,2,2,2,2,2,2,0,2,1,2
+2025,IRAGKR,IRAGKR: Iterative retrieval augmented generation with fine-grained knowledge refinement,Triggering,Peer-reviewed,Neurocomputing,10.1016/j.neucom.2025.131282,2,2,2,2,2,2,0,1,2,2
+2025,LLM-Independent Adaptive RAG,LLM-Independent Adaptive RAG: Let the Question Speak for Itself,Triggering,Peer-reviewed,EMNLP,10.18653/v1/2025.emnlp-main.439,2,2,2,1,1,2,0,1,1,2
+2025,AMRAF,Multi-objective math problem generation using large language model through an adaptive multi-level retrieval augmentation framework,Triggering,Peer-reviewed,Information Fusion,10.1016/j.inffus.2025.103037,2,2,2,2,2,2,0,1,2,2
+2025,SeaKR,SeaKR: Self-aware Knowledge Retrieval for Adaptive Retrieval Augmented Generation,Triggering,Peer-reviewed,ACL,10.18653/v1/2025.acl-long.1312,2,2,2,2,2,2,1,2,2,2
+2025,DeepRAG,DeepRAG: Thinking to Retrieval Step by Step for Large Language Models,Routing,Preprint,arXiv,https://arxiv.org/abs/2502.01142,2,2,1,1,2,2,0,0,1,2
+2025,MBA-RAG,MBA-RAG: A Bandit Approach for Adaptive Retrieval-Augmented Generation through Question Complexity,Routing,Peer-reviewed,COLING,https://aclanthology.org/2025.coling-main.218/,2,2,2,1,2,2,0,1,1,2
+2025,Q-DREAM,Optimizing Question Semantic Space for Dynamic Retrieval-Augmented Multi-hop Question Answering,Routing,Peer-reviewed,ACL,10.18653/v1/2025.acl-long.871,2,1,2,2,1,2,1,2,2,1
+2025,RAG-Gym,RAG-Gym: Optimizing Reasoning and Search Agents with Process Supervision,Routing,Preprint,arXiv,https://arxiv.org/abs/2502.13957,2,2,1,0,2,2,0,1,1,2
+2025,Search-o1,Search-o1: Agentic Search-Enhanced Large Reasoning Models,Routing,Peer-reviewed,EMNLP,10.18653/v1/2025.emnlp-main.276,2,2,2,2,2,2,0,2,1,2
+2025,Search-R1,Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning,Routing,Peer-reviewed,COLM,https://openreview.net/forum?id=Rwhi91ideu,2,2,2,2,2,2,1,2,1,2
+2025,Smart-Searcher,Smart-Searcher: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning,Routing,Peer-reviewed,Findings of EMNLP,10.18653/v1/2025.findings-emnlp.731,2,2,2,1,2,2,0,1,0,2
+2025,UniRAG,UniRAG: Unified Query Understanding Method for Retrieval Augmented Generation,Routing,Peer-reviewed,ACL,10.18653/v1/2025.acl-long.693,2,2,2,1,1,2,0,1,1,2
+2025,Overlap Reduction,Accelerating Adaptive Retrieval Augmented Generation via Instruction-Driven Representation Reduction of Retrieval Overlaps,Budget/evidence,Peer-reviewed,Findings of ACL,10.18653/v1/2025.findings-acl.1384,2,1,2,1,2,1,0,1,0,1
+2025,DynamicRAG,DynamicRAG: Leveraging Outputs of Large Language Model as Feedback for Dynamic Reranking in Retrieval-Augmented Generation,Budget/evidence,Peer-reviewed,NeurIPS,10.52202/085713-5620,2,2,2,2,2,2,0,2,1,2
+2025,Adaptive-k,"Efficient Context Selection for Long-Context QA: No Tuning, No Iteration, Just Adaptive-k",Budget/evidence,Peer-reviewed,EMNLP,10.18653/v1/2025.emnlp-main.1017,2,2,2,2,2,2,0,1,1,2
+2025,SGIC,SGIC: A Self-Guided Iterative Calibration Framework for RAG,Budget/evidence,Peer-reviewed,ACL,10.18653/v1/2025.acl-long.1376,2,1,2,1,1,1,0,1,1,2
+2025,AMBER,Towards Adaptive Memory-Based Optimization for Enhanced Retrieval-Augmented Generation,Budget/evidence,Peer-reviewed,Findings of ACL,10.18653/v1/2025.findings-acl.418,2,1,2,1,1,2,0,1,1,1
+2025,FiSKE,Fine-grained Stateful Knowledge Exploration: Effective and efficient graph retrieval with Large Language Models,Stopping/sufficiency,Peer-reviewed,Knowledge-Based Systems,10.1016/j.knosys.2025.114011,2,2,2,2,2,2,0,2,2,2
+2025,Sufficient Context,Sufficient Context: A New Lens on Retrieval Augmented Generation Systems,Stopping/sufficiency,Peer-reviewed,ICLR,https://openreview.net/forum?id=Jjr2Odj8DJ,2,2,1,0,0,2,0,1,2,2
+2026,ATEA,Adaptive retrieval-augmented evidence-fusion for highly heterogeneous temporal entity alignment,Triggering,Peer-reviewed,Information Fusion,10.1016/j.inffus.2026.104516,2,2,2,2,2,2,2,1,2,2
+2026,D2-RAG,D2-RAG: Dual-Decision Retrieval-Augmented Generation via Multi-Dimensional Uncertainty and Utility-Aware Decoding,Triggering,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.754,2,2,2,2,1,2,1,1,2,2
+2026,INKER,INKER: Adaptive Dynamic Retrieval Augmented Generation with Internal-External Knowledge Integration,Triggering,Peer-reviewed,Information Processing & Management,10.1016/j.ipm.2025.104534,2,2,2,2,2,2,1,1,2,2
+2026,SUGAR-L,Leveraging contextual confidence for smarter retrieval in large language models,Triggering,Peer-reviewed,Neural Networks,10.1016/j.neunet.2026.108862,2,2,2,2,2,2,0,1,2,2
+2026,LiteRAG,Lightweight query-adaptive RAG framework for knowledge support in smart manufacturing,Triggering,Peer-reviewed,Journal of Manufacturing Systems,10.1016/j.jmsy.2026.04.016,2,2,2,1,2,1,1,1,2,2
+2026,ETC,Modeling Uncertainty Trends for Timely Retrieval in Dynamic RAG,Triggering,Peer-reviewed,AAAI,10.1609/aaai.v40i37.40418,2,2,2,2,2,2,2,2,2,2
+2026,QR3AG,QR3AG: Dynamic Retrieval-Augmented Generation via Query-Response Relevance Threshold Judgement,Triggering,Peer-reviewed,Expert Systems with Applications,10.1016/j.eswa.2025.130087,2,2,2,2,2,2,0,1,1,2
+2026,SC-DRAG,Retrieval is NOT always needed: Exploring the timing of retrieval in dynamic retrieval-augmented generation,Triggering,Peer-reviewed (online-first 2026; issue 2027),Expert Systems with Applications,10.1016/j.eswa.2026.133921,2,2,2,2,2,2,0,1,2,2
+2026,Budget-Aware Active RAG Evaluation,"When Should Active RAG Retrieve? A Budget-Aware Evaluation of Utility, Calibration, and Cost",Triggering,Workshop/preprint,KDD 2026 Workshop / arXiv,https://arxiv.org/abs/2607.24010,2,2,1,0,2,1,0,0,1,1
+2026,ReaLM-Retrieve,When to Retrieve During Reasoning: Adaptive Retrieval for Large Reasoning Models,Triggering,Peer-reviewed,SIGIR,10.1145/3805712.3809722,2,2,2,2,2,2,1,2,2,2
+2026,Zero-RAG,Zero-RAG: towards retrieval-augmented generation with zero redundant knowledge,Triggering,Peer-reviewed,Frontiers of Computer Science,10.1007/s11704-026-50986-4,2,2,2,2,2,2,0,1,2,2
+2026,ACRA,ACRA: An adaptive chain retrieval architecture for multi-modal knowledge-Augmented visual question answering,Routing,Peer-reviewed,Knowledge-Based Systems,10.1016/j.knosys.2025.115136,2,2,2,2,1,2,0,1,2,2
+2026,AIR-RAG,Adaptive Iterative Retrieval for Enhanced Retrieval-Augmented Generation,Routing,Peer-reviewed,Neurocomputing,10.1016/j.neucom.2025.132272,2,2,2,2,1,2,1,1,2,2
+2026,REPAIR,Adaptive Retrieval for Reasoning,Routing,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1734,2,2,2,2,2,2,1,2,2,2
+2026,Agentic-R,Agentic-R: Learning to Retrieve for Agentic Search,Routing,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.785,2,2,2,2,2,2,1,2,2,2
+2026,CIRAG,CIRAG: Construction-Integration Retrieval and Adaptive Generation for Multi-hop Question Answering,Routing,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1203,2,2,2,2,2,2,0,1,2,2
+2026,CORAL,CORAL: Adaptive Retrieval Loop for Culturally-Aligned Multilingual RAG,Routing,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.1356,2,2,2,2,2,2,0,1,2,2
+2026,DORA,DORA: A Dual-Objective Reinforcement Learning Framework for Effective and Efficient Multimodal Agentic Search,Routing,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.605,2,2,2,2,2,2,1,2,2,2
+2026,Graph-R1,Graph-R1: Towards Agentic GraphRAG Framework via End-to-End Reinforcement Learning,Routing,Peer-reviewed,ICML,https://arxiv.org/abs/2507.21892,2,2,2,2,2,2,0,2,2,2
+2026,GraphRAG-R1,GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning,Routing,Peer-reviewed,WWW,10.1145/3774904.3792589,2,2,2,2,2,2,0,2,1,2
+2026,HiKEY,HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering,Routing,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.818,2,2,2,2,2,1,0,1,1,2
+2026,MoRE-RAG,MoRE-RAG: Bayesian optimal fusion of multiple retrieval experts for retrieval-augmented generation,Routing,Peer-reviewed,Neurocomputing,10.1016/j.neucom.2026.134536,2,2,2,2,2,2,2,1,2,2
+2026,PROGRAM,PROGRAM: Programmatic Retrieval Optimization with Generative Reasoning and Augmented Multi-queries,Routing,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.1090,2,2,2,1,2,2,0,1,1,2
+2026,QuDAR,QuDAR: Query-Wise Dual-Perspective Adaptive Retrieval,Routing,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1791,2,2,2,2,1,2,1,2,2,2
+2026,GRIP,Retrieval as Generation: A Unified Framework with Self-Triggered Information Planning,Routing,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.196,2,2,2,2,2,2,1,2,1,2
+2026,Structured Planning,Retrieval-Augmented Generation for Multi-Hop Question Answering Based on Structured Planning,Routing,Peer-reviewed,ACM Transactions on Knowledge Discovery from Data,10.1145/3789506,2,2,2,2,1,2,0,1,2,2
+2026,Retriever Portfolios,Retriever Portfolios: A Principled Approach to Adaptive RAG,Routing,Peer-reviewed,ICML,https://arxiv.org/abs/2605.31176,2,2,2,1,2,2,1,1,1,2
+2026,RouteRAG,RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning,Routing,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.1502,2,2,2,2,2,2,0,1,1,2
+2026,S-Path-RAG,S-Path-RAG: Semantic-Aware Shortest-Path Retrieval Augmented Generation for Multi-Hop Knowledge Graph Question Answering,Routing,Peer-reviewed,WWW,10.1145/3774904.3792459,2,2,2,2,2,2,2,1,2,2
+2026,SA-RAG,SA-RAG: Structured and adaptive retrieval-augmented generation for multi-hop question answering,Routing,Peer-reviewed,Neural Networks,10.1016/j.neunet.2026.109201,2,2,2,2,2,2,2,1,2,2
+2026,SegMem-RAG,SegMem-RAG: Adaptive Memory for Retrieval-Augmented Generation in Open-Ended Knowledge Environments,Routing,Peer-reviewed,AAAI,10.1609/aaai.v40i36.40320,2,2,2,2,1,2,0,1,1,2
+2026,SPARKLE,SPARKLE: A Structured and Plug-and-play Agentic Retrieval Policy for Adaptive RAG Models,Routing,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1793,2,2,2,2,2,2,1,2,2,2
+2026,TAdaRAG,TAdaRAG: Task Adaptive Retrieval-Augmented Generation via On-the-Fly Knowledge Graph Construction,Routing,Peer-reviewed,AAAI,10.1609/aaai.v40i41.40774,2,1,2,2,1,2,0,1,1,1
+2026,LogicRAG,You Don't Need Pre-Built Graphs for RAG: Retrieval Augmented Generation with Adaptive Reasoning Structures,Routing,Peer-reviewed,AAAI,10.1609/aaai.v40i36.40278,2,2,2,2,2,2,0,2,1,2
+2026,AED-RAG,AED-RAG: Continuous Multi-Granular Context Fusion for Retrieval-Augmented Generation via Adaptive Ensemble Decoding,Budget/evidence,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.1148,2,2,2,2,1,2,0,1,2,2
+2026,LDAR,Beyond RAG vs. Long-Context: Learning Distraction-Aware Retrieval for Efficient Knowledge Grounding,Budget/evidence,Peer-reviewed,ICLR,https://proceedings.iclr.cc/paper_files/paper/2026/hash/c7201deff8d507a8fe2e86d34094e154-Abstract-Conference.html,2,2,2,2,2,2,0,2,2,2
+2026,BRIEF-Pro,BRIEF-Pro: Universal Context Compression with Short-to-Long Synthesis for Fast and Accurate Multi-Hop Reasoning,Budget/evidence,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.696,2,1,2,1,2,1,0,1,0,1
+2026,ClauseRoute,ClauseRoute: Risk-aware clause-guided routing for retrieval-augmented legal reasoning,Budget/evidence,Peer-reviewed (online-first 2026; issue 2027),Expert Systems with Applications,10.1016/j.eswa.2026.133633,2,2,2,2,2,2,1,2,2,2
+2026,Cost-aware depth,Cost-Aware Retrieval-Augmentation Reasoning Models with Adaptive Retrieval Depth,Budget/evidence,Peer-reviewed,The Web Conference,10.1145/3774904.3792693,2,2,2,2,2,2,2,1,2,2
+2026,DA-RAG,DA-RAG: Dynamic Attributed Community Search for Retrieval-Augmented Generation,Budget/evidence,Peer-reviewed,The Web Conference,10.1145/3774904.3792430,2,2,2,2,2,1,1,2,2,2
+2026,Flow-RAG,Flow-RAG: Retrieval-Augmented Generation for Knowledge Graph Question Answering via Gated Flow Propagation,Budget/evidence,Peer-reviewed,Knowledge-Based Systems,10.1016/j.knosys.2026.116400,2,2,2,2,2,1,1,2,2,2
+2026,GRAD,GRAD: Generalizing RAG Adaptation with Decoding,Budget/evidence,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.2099,2,1,2,2,0,2,0,2,0,1
+2026,InnerRAG,Incentivizing Retrieval-Augmented Generation via Inner Adaptive Context Selection,Budget/evidence,Peer-reviewed,SIGIR,10.1145/3805712.3809671,2,2,2,2,2,2,2,1,2,2
+2026,IterCOMP,IterCOMP: Reasoning-aware Adaptive Prompt Compression for Multi-hop Question Answering,Budget/evidence,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1559,2,2,2,1,2,1,0,1,1,2
+2026,CompSelect,Less is More: Compact Clue Selection for Efficient Retrieval-Augmented Generation Reasoning,Budget/evidence,Peer-reviewed,The Web Conference,10.1145/3774904.3792158,2,2,2,2,2,2,1,2,2,2
+2026,LCR,LLM-confidence reranker: A training-free approach for enhancing retrieval-augmented generation systems,Budget/evidence,Peer-reviewed,Expert Systems with Applications,10.1016/j.eswa.2026.131627,2,2,2,2,1,2,0,1,2,2
+2026,Mixture-of-RAG,Mixture-of-RAG: Integrating Text and Tables with Large Language Models,Budget/evidence,Peer-reviewed,KDD,10.1145/3770854.3780171,2,2,2,2,2,2,0,2,2,2
+2026,NeocorRAG,"NeocorRAG: Less Irrelevant Information, More Explicit Evidence, and More Effective Recall via Evidence Chains",Budget/evidence,Peer-reviewed,The ACM Web Conference,10.1145/3774904.3792093,2,2,2,2,2,2,1,2,2,2
+2026,Query-Aware Context Selection,Query-Aware Context Selection for Retrieval-Augmented Generation,Budget/evidence,Peer-reviewed,SIGIR,10.1145/3805712.3809959,2,2,2,2,1,2,2,1,2,2
+2026,RAG-on-a-Diet,RAG-on-a-Diet: A Reinforcement Learning-Based Dynamic Resource Optimization Framework for RAG,Budget/evidence,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1562,2,2,2,2,2,2,2,2,2,2
+2026,METEORA,Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains,Budget/evidence,Peer-reviewed,ICML,https://arxiv.org/abs/2505.16014,2,2,2,2,1,2,0,2,2,2
+2026,RAM,Read As Human: Compressing Context via Parallelizable Close Reading and Skimming,Budget/evidence,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1309,2,2,2,1,2,1,0,1,1,2
+2026,State-Aware RAG,Reasoning with Memory: Adaptive Information Management for Retrieval-Augmented Generation,Budget/evidence,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.1834,2,2,2,2,2,2,0,2,2,2
+2026,RegionRAG,Region-level Retrieval-Augmented Generation for Visual Document Understanding,Budget/evidence,Peer-reviewed,AAAI,10.1609/aaai.v40i8.37597,2,2,2,2,2,2,0,2,2,2
+2026,BAR-RAG,Rethinking the Reranker: Boundary-Aware Evidence Selection for Robust Retrieval-Augmented Generation,Budget/evidence,Peer-reviewed,ICML,https://arxiv.org/abs/2602.03689,2,2,2,2,2,2,0,2,2,2
+2026,SARA,SARA: Selective and Adaptive Retrieval-augmented Generation with Context Compression,Budget/evidence,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.661,2,2,2,1,2,1,0,1,1,2
+2026,SmartChunk,SmartChunk Retrieval: Query-Aware Chunk Compression with Planning for Efficient Document RAG,Budget/evidence,Peer-reviewed,ICLR,https://proceedings.iclr.cc/paper_files/paper/2026/hash/5c1ff00b27ba052039bb41531236baac-Abstract-Conference.html,2,2,2,2,2,2,0,1,2,2
+2026,ThoraxAgent,ThoraxAgent: An intelligent agent-based decision support system for chest radiography analysis with cross-modal dynamic retrieval,Budget/evidence,Peer-reviewed,Expert Systems with Applications,10.1016/j.eswa.2026.132243,2,2,2,2,2,2,0,1,2,2
+2026,SC-RAG,Towards evidence-aware retrieval-augmented generation via self-corrective chain-of-thought,Budget/evidence,Peer-reviewed,Information Processing & Management,10.1016/j.ipm.2025.104369,2,1,2,2,2,2,0,1,2,2
+2026,AdaKG-RAG,AdaKG-RAG: Adaptive KG-guided Retrieval-Augmented Generation with Hypothesis-and-Verification Retrieval for Multi-Hop Question Answering,Stopping/sufficiency,Peer-reviewed,Journal of King Saud University Computer and Information Sciences,10.1007/s44443-026-01028-3,2,2,2,2,1,1,1,1,2,2
+2026,AutoSearch,AutoSearch: Adaptive Search Depth for Efficient Agentic RAG via Reinforcement Learning,Stopping/sufficiency,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.1399,2,2,2,2,2,2,1,2,2,2
+2026,MA-RAG,From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG,Stopping/sufficiency,Peer-reviewed,ICML,https://arxiv.org/abs/2603.03292,2,2,2,2,2,2,2,2,2,2
+2026,FrugalRAG,FrugalRAG: Less is More in RL Finetuning for Multi-Hop Question Answering,Stopping/sufficiency,Peer-reviewed,ICLR,https://proceedings.iclr.cc/paper_files/paper/2026/hash/ede6f43d254731152970009c172d5561-Abstract-Conference.html,2,2,2,2,2,2,2,2,2,2
+2026,PruneRAG,PruneRAG: Confidence-Guided Query Decomposition Trees for Efficient Retrieval-Augmented Generation,Stopping/sufficiency,Peer-reviewed,The Web Conference,10.1145/3774904.3792103,2,2,2,2,2,2,1,2,2,2
+2026,Reflective RAG,Reflective RAG: Self-Evaluation Driven Strategy Optimization in Agentic Retrieval-Augmented Generation,Stopping/sufficiency,Peer-reviewed,Findings of ACL,10.18653/v1/2026.findings-acl.648,2,2,2,1,1,2,0,1,1,2
+2026,ReflectiveRAG,ReflectiveRAG: Rethinking Adaptivity in Retrieval-Augmented Generation,Stopping/sufficiency,Peer-reviewed,EACL Industry,10.18653/v1/2026.eacl-industry.27,2,2,2,1,1,2,0,1,1,2
+2026,S2G-RAG,S2G-RAG: Structured Sufficiency and Gap Judging for Iterative Retrieval-Augmented QA,Stopping/sufficiency,Peer-reviewed,ACL,10.18653/v1/2026.acl-long.1185,2,2,2,2,2,2,1,2,2,2
